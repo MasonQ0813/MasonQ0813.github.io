@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: 'http://MasonQ0813.github.io/blob/master/files/QH%20PHD%20Resume(2025).pdf'
 author_profile: true
 redirect_from:
   - /resume
